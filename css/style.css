@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Alef&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Varela+Round);
+@import url('https://fonts.googleapis.com/css?family=Alef&display=swap&subset=hebrew');
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
 
 /* Base */
 html {
@@ -213,7 +213,7 @@ body {
   font-weight: 300;
   font-size: 1rem;
   direction: rtl; 
-  font-family: "Alef Hebrew";
+  font-family: "Alef";
   text-align: justify;
  }
 
